@@ -1,4 +1,4 @@
-import "./Disciplina.css";
+
 
 type DisciplinaProps = {
     nome: string;
